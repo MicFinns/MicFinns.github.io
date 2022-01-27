@@ -1,0 +1,15 @@
+/* div {
+    border: 2px solid black;
+} */
+
+.btn-primary {
+    color: #fff;
+    background-color: green;
+    border-color: red;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: red;
+    border-color: green;
+}
